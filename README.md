@@ -3,6 +3,8 @@
 A simple Chrome extension that hides the "Ask Gemini" and "Let Gemini take notes for this meeting" icons in Google Meet.
 These icons often pop up and block the meeting interface — this extension removes them automatically.
 
+![Gemini Screenshot](images/gemini-screenshot.png)
+
 It also includes a toggle in the extension's Options page so you can turn the feature on/off without uninstalling.
 
 ## 🚀 Local Installation
@@ -35,6 +37,8 @@ Toggle the **Developer mode** switch in the top-right corner of the extensions p
 1. Click **Load unpacked** button
 2. Browse to and select the folder containing the extension files
 3. Click **Select Folder** (or **Open** on some systems)
+
+![Installation Screenshot](images/install.png)
 
 ### 5. Verify installation
 - The extension should now appear in your list of installed extensions
